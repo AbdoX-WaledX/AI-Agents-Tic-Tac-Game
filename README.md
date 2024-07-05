@@ -15,7 +15,7 @@ This project implements a Tic-Tac-Toe game using SPADE agents. It is designed to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mohmmedelfateh/Spade-Agents-Tic-Tac-Game.git
+    git clone https://github.com/AbdoX-WaledX/Spade-Agents-Tic-Tac-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
