@@ -6,7 +6,7 @@ This project implements a Tic-Tac-Toe game using SPADE agents. It is designed to
 
 ## Features
 
-- Multi-Agent System using SPADE
+- Multi-Agent System using SPADE Library
 - Interactive Tic-Tac-Toe game
 - Extendable agent behaviors
 - Easy to run and modify
@@ -15,11 +15,11 @@ This project implements a Tic-Tac-Toe game using SPADE agents. It is designed to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbdoX-WaledX/Spade-Agents-Tic-Tac-Game.git
+    https://github.com/AbdoX-WaledX/AI-Agents-Tic-Tac-Toe-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Spade-Agents-Tic-Tac-Game
+    cd AI-Agents-Tic-Tac-Toe-Game
     ```
 3. Install the required packages:
     ```bash
